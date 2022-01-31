@@ -1,0 +1,7 @@
+#! /bin/bash
+
+#   -- add uinput to load on boot
+
+sed -i -e '$auinput' /etc/modules
+
+exit 0
