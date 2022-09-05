@@ -2,4 +2,4 @@
 
 #   -- add uinput to load on boot
 
-printf '%s\n' auinput >> /etc/modules
+printf '%s\n' uinput >> /etc/modules
