@@ -1,3 +1,9 @@
+steam-devices-nitrux (0.0.5)  nitrux; urgency=medium
+
+  * Add more udev rules.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Sat, 15 Jun 2024 19:52:00 -0500
+
 steam-devices-nitrux (0.0.4)  nitrux; urgency=medium
 
   * Change dependency name.
