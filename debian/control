@@ -9,7 +9,7 @@ Homepage: https://gitlab.com/fabiscafe/game-devices-udev
 
 Package: steam-devices-nitrux
 Architecture: amd64
-Depends: linux-firmware-nitrux
+Depends: udev
 Conflicts: steam-devices
 Description: udev rules for Steam-related hardware.
  Package to add udev rules for Steam-related hardware to the distribution.
