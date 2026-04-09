@@ -5,6 +5,7 @@
 Package to add Device support for Steam-related hardware to the distribution.
 
 # Issues
+
 If you find problems with the contents of this repository please create an issue.
 
 ©2022 Nitrux Latinoamericana S.C.
